@@ -1,67 +1,33 @@
 # Project One Storyboard | Text-Based Adventure Game
 
-> Complete the `TODO:` prompts using your own game idea. This file is a graded
-> Project One deliverable and later becomes a reference for Project Two.
+Theme:
 
-## Theme and Storyline
+Blackwood Research Facility — A mysterious abandoned research facility where a dangerous artificial intelligence has taken control of the building.
 
-**Theme:**
+Storyline:
 
-TODO: Name and briefly describe your game's theme.
+The player enters the abandoned Blackwood Research Facility after receiving a distress signal. The facility was shut down after an experiment involving an artificial intelligence system went wrong. The player’s goal is to explore the facility and collect six items needed to escape: a flashlight, research journal, access card, security badge, battery, and encrypted drive. The player must collect all of the items before entering the laboratory, where the dangerous artificial intelligence known as The Overseer is waiting. If the player encounters The Overseer before collecting all six items, the player loses the game.
 
-**Storyline:**
+Rooms
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+* Entrance — Start room
+* Storage Room
+* Archive
+* North Hall
+* Security Room
+* Gallery
+* Vault
+* Laboratory — Villain room
 
-## Rooms
+Items
 
-Project One requires a minimum of eight rooms.
+* Flashlight
+* Research Journal
+* Access Card
+* Security Badge
+* Battery
+* Encrypted Drive
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+Villain
 
-Add more rooms if your design needs them.
-
-## Items
-
-With the minimum eight-room design, Project One requires at least six items.
-Every room except the start room and villain room must contain one item.
-
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
-
-## Villain
-
-TODO: Identify and briefly describe the villain.
-
-## Storyboard and Map Check
-
-Before submitting, compare this storyboard with `game_map.drawio`.
-
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
-  villain is encountered.
-
-## Project Two Handoff
-
-Keep this file after Project One. In Module Seven, use these names and design
-choices when building the final room/item dictionary and player-facing output.
+The Overseer — A powerful artificial intelligence that has taken control of the Blackwood Research Facility. The Overseer is located in the laboratory and will stop the player from escaping if they enter the room before collecting all six items.
